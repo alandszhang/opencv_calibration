@@ -31,7 +31,7 @@ const int squareSize = 30.00;
 
 const int frameNumber = 14;
 //图像命名 从1 ～ 58（59-1=58）
-string folder_ = "/home/huhu/CLionProjects/biaoding/data/";
+string folder_ = "/home/dszhang/code/opencv_calibration/data/";
 string format_R = "R";
 string format_L = "L";
 //例如： R1.jpg   L58.jpg 置于工程目录的 data文件夹下，
